@@ -51,11 +51,12 @@ PORT=8800
 
  👨‍💻 Contributors
 
-Thanks to the following people who have contributed to this project:
+Thanks to the following people who have contributed to this project:  
 
-- Roopa L S 
-- Shivanand Rayaraddi
-- Vikas Gowda 
+- Roopa L S - [GitHub](https://github.com/Roopa4112)  
+- Shivanand Rayaraddi - [GitHub](https://github.com/Shivu0711)  
+- Vikas Gowda - [GitHub](https://github.com/vvg070)  
+ 
 
 ## 📌 How to Run the Project
 
