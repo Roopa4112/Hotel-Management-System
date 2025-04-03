@@ -1,6 +1,9 @@
 #  Hotel Management System 
 
-The **Hotel Management System ** is a hotel room booking system that allows users to search for hotels, view available rooms, and make reservations, while administrators can manage hotels, rooms, and bookings. Users can register and log in using their email and password, with authentication handled through JWT for secure access. Once logged in, users can search for hotels based on location, date, and availability, view hotel details, and select rooms for booking. The booking details, including check-in and check-out dates, are saved in the database and linked to the user’s account. The admin panel enables hotel administrators to add, update, and delete hotels and rooms, as well as manage user bookings and update room availability. The backend is built using Node.js and Express.js, connected to a MongoDB database, with API routes handling authentication, hotel data retrieval, and booking management. This project serves as a functional hotel booking system that can be customized for various types of accommodations and booking applications.
+<p align="justify">
+The <b>Hotel Management System</b> is a hotel room booking system that allows users to search for hotels, view available rooms, and make reservations, while administrators can manage hotels, rooms, and bookings. Users can register and log in using their email and password, with authentication handled through JWT for secure access. Once logged in, users can search for hotels based on location, date, and availability, view hotel details, and select rooms for booking. The booking details, including check-in and check-out dates, are saved in the database and linked to the user’s account. The admin panel enables hotel administrators to add, update, and delete hotels and rooms, as well as manage user bookings and update room availability. The backend is built using Node.js and Express.js, connected to a MongoDB database, with API routes handling authentication, hotel data retrieval, and booking management. This project serves as a functional hotel booking system that can be customized for various types of accommodations and booking applications.
+</p>
+
 
 ---
 
@@ -60,7 +63,7 @@ Thanks to the following people who have contributed to this project:
 
 ## 📌 How to Run the Project
 
-### Clone the Repository<br>
+Clone the Repository<br>
 git clone https://github.com/Roopa4112/Hotel-Management-System.git <br>
 cd Hotel-Management-System<br>
 
