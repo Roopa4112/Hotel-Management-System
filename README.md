@@ -59,22 +59,23 @@ Thanks to the following people who have contributed to this project:
 
 ## 📌 How to Run the Project
 
-Clone the Repository
-git clone https://github.com/Roopa4112/Hotel-Management-System.git
-cd Hotel-Management-System
+Clone the Repository<brb>
+git clone https://github.com/Roopa4112/Hotel-Management-System.git <br>
+cd Hotel-Management-System<br>
 
-1️⃣ Install Dependencies
-npm install
+1️⃣ Install Dependencies<br>
+npm install<br>
 
-1️⃣  Start the Backend Server
-cd api
-npm start
+1️⃣  Start the Backend Server<br>
+cd api<br>
+npm start<br>
 
-cd client
-npm start
+1️⃣  Start the Frontendr<br>
+cd client<br>
+npm start<br>
 
-1️⃣  Start the Admin
-cd admin
+1️⃣  Start the Admin<br>
+cd admin<br>
 npm start
 
 
