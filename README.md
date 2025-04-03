@@ -56,7 +56,6 @@ npm install
 cd api
 npm start
 
-1️⃣  Start the Frontend
 cd client
 npm start
 
@@ -64,7 +63,7 @@ npm start
 cd admin
 npm start
 
----
+##
 
 🔑 Environment Variables (Create .env file)
 Create a .env file in the backend (api) folder and add the following:
