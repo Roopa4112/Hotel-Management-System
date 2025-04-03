@@ -6,27 +6,27 @@ The **Hotel Management System ** is a hotel room booking system that allows user
 
 ## 🚀 Working of the Project
 
-### 1️⃣ User Authentication & Authorization
+### 1️⃣  User Authentication & Authorization
 - Users can register and log in using their email and password.
 - Authentication is handled using **JWT (JSON Web Token)** for secure access.
 - Logged-in users can **book rooms**, while admins have additional privileges.
 
-### 2️⃣ Searching & Viewing Hotels
+### 2️⃣  Searching & Viewing Hotels
 - Users can search for hotels based on **location, date, and availability**.
 - The homepage lists hotels, showing basic details like **name, price, and rating**.
 - Clicking on a hotel provides more details, including available rooms.
 
-### 3️⃣ Booking a Room
+### 3️⃣  Booking a Room
 - Users select a hotel and choose an **available room**.
 - After selecting the **check-in/check-out dates**, they confirm the booking.
 - The booking is saved in the **database** and linked to the user account.
 
-### 4️⃣ Admin Panel (Managing Hotels & Bookings)
+### 4️⃣  Admin Panel (Managing Hotels & Bookings)
 - **Admins** can **add, update, and delete** hotels and rooms.
 - They can view **all bookings** made by users.
 - Room availability is updated based on **user bookings**.
 
-### 5️⃣ Database & Backend Functionality
+### 5️⃣  Database & Backend Functionality
 - The backend is built using **Node.js and Express.js**, connected to a **MongoDB database**.
 - **API routes** handle **user authentication, hotel data, and booking processes**.
 - **Admins and users have different permissions** for accessing features.
@@ -59,8 +59,7 @@ Thanks to the following people who have contributed to this project:
 
 ## 📌 How to Run the Project
 
-### 1️⃣ Clone the Repository
-```sh
+Clone the Repository
 git clone https://github.com/Roopa4112/Hotel-Management-System.git
 cd Hotel-Management-System
 
