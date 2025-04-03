@@ -83,8 +83,7 @@ npm start
 
 ---
 
-
-## 👨‍💻 Contributors
+ 👨‍💻 Contributors
 
 Thanks to the following people who have contributed to this project:
 
