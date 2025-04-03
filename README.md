@@ -41,6 +41,23 @@ The **Hotel Management System ** is a hotel room booking system that allows user
 - **Authentication:** JWT (JSON Web Token)  
 
 ---
+## 🔑 Environment Variables (Create .env file)
+Create a .env file in the backend (api) folder and add the following:
+MONGO_URL=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=8800
+
+📜 API Endpoints
+Method	   Endpoint    	         Description
+POST	   /api/auth/register  	 Register a new user
+POST     /api/auth/login	     User login
+GET	     /api/hotels	         Get all hotels
+GET	     /api/hotels/:id	     Get hotel details
+POST	   /api/bookings	       Create a booking
+GET	     /api/admin/bookings	  Get all bookings (Admin)
+DELETE	 /api/admin/hotel/:id 	Delete a hotel (Admin)
+
+---
 
 ## 📌 How to Run the Project
 
@@ -64,21 +81,7 @@ cd admin
 npm start
 
 
-## 🔑 Environment Variables (Create .env file)
-Create a .env file in the backend (api) folder and add the following:
-MONGO_URL=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-PORT=8800
 
-📜 API Endpoints
-Method	   Endpoint    	         Description
-POST	   /api/auth/register  	 Register a new user
-POST     /api/auth/login	     User login
-GET	     /api/hotels	         Get all hotels
-GET	     /api/hotels/:id	     Get hotel details
-POST	   /api/bookings	       Create a booking
-GET	     /api/admin/bookings	  Get all bookings (Admin)
-DELETE	 /api/admin/hotel/:id 	Delete a hotel (Admin)
 
 
 ## 👨‍💻 Contributors
