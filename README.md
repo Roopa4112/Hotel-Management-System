@@ -63,9 +63,8 @@ npm start
 cd admin
 npm start
 
-##
 
-🔑 Environment Variables (Create .env file)
+## 🔑 Environment Variables (Create .env file)
 Create a .env file in the backend (api) folder and add the following:
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
