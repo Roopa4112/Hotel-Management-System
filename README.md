@@ -52,7 +52,7 @@ PORT=8800
 
 ---
 
- 👨‍💻 Contributors
+## 👨‍💻 Contributors
 
 Thanks to the following people who have contributed to this project:  
 
@@ -63,22 +63,22 @@ Thanks to the following people who have contributed to this project:
 
 ## 📌 How to Run the Project
 
-Clone the Repository<br>
+### Clone the Repository<br>
 git clone https://github.com/Roopa4112/Hotel-Management-System.git <br>
 cd Hotel-Management-System<br>
 
- Install Dependencies<br>
+### Install Dependencies<br>
    npm install<br>
 
- Start the Backend Server<br>
+### Start the Backend Server<br>
   cd api<br>
   npm start<br>
 
- Start the Frontendr<br>
+ ### Start the Frontendr<br>
   cd client<br>
   npm start<br>
 
- Start the Admin<br>
+ ### Start the Admin<br>
   cd admin<br>
   npm start
 
