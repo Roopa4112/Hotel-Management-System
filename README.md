@@ -42,9 +42,9 @@ The **Hotel Management System ** is a hotel room booking system that allows user
 
 ---
 ## 🔑 Environment Variables (Create .env file)
-Create a .env file in the backend (api) folder and add the following:
-MONGO_URL=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+Create a .env file in the backend (api) folder and add the following:<br>
+MONGO_URL=your_mongodb_connection_string<br>
+JWT_SECRET=your_secret_key<br>
 PORT=8800
 
 ---
