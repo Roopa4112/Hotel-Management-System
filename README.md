@@ -52,7 +52,7 @@ PORT=8800
 
 ---
 ## Admin credentials
-username: Rose
+username: Rose <br>
 password:123456789
 ## 👨‍💻 Contributors
 
