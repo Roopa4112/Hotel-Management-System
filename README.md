@@ -51,7 +51,9 @@ JWT_SECRET=your_secret_key<br>
 PORT=8800
 
 ---
-
+## Admin credentials
+username: Rose
+password:123456789
 ## 👨‍💻 Contributors
 
 Thanks to the following people who have contributed to this project:  
